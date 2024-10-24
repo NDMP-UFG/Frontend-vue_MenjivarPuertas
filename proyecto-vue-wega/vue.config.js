@@ -4,7 +4,7 @@ const { defineConfig } = require('@vue/cli-service')
 })*/
 module.exports={
   pwa:{
-  name:"Proyecto de William Eduardo Guevara Alfaro",
+  name:"Proyecto de Nestor David Menjivar Puertas",
   themeColor: "#FFd100",
   msTileColor: '#000000',
   appleMobileWebAppCapable: 'yes',
