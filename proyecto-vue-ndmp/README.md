@@ -1,4 +1,4 @@
-# proyecto-vue-wega
+# proyecto-vue-ndmp
 
 ## Project setup
 ```
